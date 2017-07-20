@@ -1,0 +1,13 @@
+{
+  "name": "Crawler-for-Sqreen",
+  "version": "0.0.1",
+  "description": "A simple webcrawler written in JavaScript",
+  "main": "crawler.js",
+  "author": "Jérémy MATHON",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "url-parse": "^1.0.5",
+    "request": "^2.65.0"
+  }
+}
